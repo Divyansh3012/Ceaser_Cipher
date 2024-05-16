@@ -56,7 +56,7 @@ print("*** CEASER CIPHER PROGRAM ***")
 print()
 
 print("Do you want to encrypt or decrypt")
-ui = input("e/d").lower()
+ui = input("e/d  ").lower()
 print()
 
 
